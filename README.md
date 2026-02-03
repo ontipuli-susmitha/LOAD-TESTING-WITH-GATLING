@@ -76,3 +76,4 @@ The Response Time Distribution chart helps analyze how response times are spread
 Overall, the screenshots demonstrate how the application behaves under simulated heavy load conditions and help identify performance issues.
 
 ## Output
+<img width="1264" height="829" alt="Image" src="https://github.com/user-attachments/assets/458978e4-1601-4108-b18e-898c3860f2e5" />
