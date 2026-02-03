@@ -77,3 +77,4 @@ Overall, the screenshots demonstrate how the application behaves under simulated
 
 ## Output
 <img width="1264" height="829" alt="Image" src="https://github.com/user-attachments/assets/458978e4-1601-4108-b18e-898c3860f2e5" />
+<img width="1264" height="867" alt="Image" src="https://github.com/user-attachments/assets/9d0bf849-1de5-48d2-86b5-1ff4da15530a" />
